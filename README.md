@@ -1,2 +1,2 @@
-# challenge-by-choice
+# goals
 react with firebase
